@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S1rlvk
-- 👀 I’m interested in AI, Neural Networks, etc.
-- 🌱 I’m currently learning Java Script and will start learning machine Learing & Python
+- 👀 I’m interested in AI, Neural Networks, Natural Language Processing etc.
+- 🌱 I’m currently learning machine Learing 
 - 💞️ I’m looking to collaborate on various front-end projects
 - 📫 Reach me through my email : s2rlvk@proton.me
 
