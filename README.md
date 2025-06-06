@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S1rlvk
+- 👋 Hi, I’m Sarthak
 - 👀 I’m interested in AI, Neural Networks, Natural Language Processing etc.
 - 🌱 I’m currently learning machine Learing 
 - 💞️ I’m looking to collaborate on various front-end projects
