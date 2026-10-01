@@ -19,9 +19,10 @@ My current research focus is on testing where frontier and open-weight models fa
 - [WEAR IMU Segmentation](https://github.com/S1rlvk/wear-imu-segmentation): IMU vs. I3D vs. fusion experiments for subtask boundary detection using 18-subject LOSO cross-validation.
 - [IODarkWatch](https://github.com/S1rlvk/IODarkWatch): Open-source maritime domain awareness project for detecting suspicious vessel behavior and AIS gaps in the Indian Ocean region.
 
-## Preprints
+## Publications & Preprints
 
-- Extending Beacon to Hindi: Cross-lingual sycophancy evaluation in English, Hindi literal translation, and Hindi culturally adapted settings. arXiv:2602.00046
+- **GroundBench**: A factorized, counterfactual benchmark for locating where VLMs fail at affordance prediction. Poster, NeurIPS 2026 RoboPAD Workshop. [arXiv:2609.13308](https://arxiv.org/abs/2609.13308)
+- Extending Beacon to Hindi: Cross-lingual sycophancy evaluation in English, Hindi literal translation, and Hindi culturally adapted settings. [arXiv:2602.00046](https://arxiv.org/abs/2602.00046)
 - Part Grounding, Not Action Knowledge: VLM affordance prediction experiments on articulated-object manipulation. Currently under arXiv review/hold.
 
 ## Tools
@@ -32,4 +33,4 @@ Python, PyTorch, scikit-learn, OpenCV, MediaPipe, MiDaS, FilterPy, NumPy, Pandas
 
 - Email: ssattigeri65@gmail.com
 - GitHub: [S1rlvk](https://github.com/S1rlvk)
-- arXiv: 2602.00046
+- arXiv: [2609.13308](https://arxiv.org/abs/2609.13308), [2602.00046](https://arxiv.org/abs/2602.00046)
